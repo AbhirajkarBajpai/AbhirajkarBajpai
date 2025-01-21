@@ -8,7 +8,7 @@
 
 - 🌱 I’m a **Full Stack Web Developer** exploring **Blockchain Development**
 
-- 📫 How to reach me **21IT3001@rgipt.ac.in**
+- 📫 How to reach me **abhirajkarbajpai2707@gmail.com**
 
 - ⚡ Fun fact **I'm a passionate learner who dives deep into fascinating subjects, seeking inner satisfaction with every step of the journey!" 🚀🌟**
 
