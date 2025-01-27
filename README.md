@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirajkarbajpai&label=Profile%20views&color=0e75b6&style=flat" alt="abhirajkarbajpai" /> </p>
 
-- 🌱 I’m a **Full Stack Web Developer** exploring **Blockchain Development**
+- 🌱 I’m a **Full Stack Web Developer** and exploring **Blockchain Development**
 
 - 📫 How to reach me **abhirajkarbajpai2707@gmail.com**
 
